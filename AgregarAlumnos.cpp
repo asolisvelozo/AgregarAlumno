@@ -1,3 +1,4 @@
+//Sin terminar
 #include <iostream>
 #include <math.h>
 using namespace std;
@@ -54,7 +55,7 @@ void elegirdiv(Ingresantes &alumno){
 
     int d;
 
-    cout<<"Ingrese la división en la que desea estar: ";
+    cout<<"Ingrese la divisiÃ³n en la que desea estar: ";
     cin>>d;
 
     for(int i; i<=50; i++){
